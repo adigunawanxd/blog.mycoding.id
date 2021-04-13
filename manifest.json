@@ -1,0 +1,66 @@
+{
+  "short_name": "Ilmunesia.my.id",
+  "name": "Ilmunesia.my.id",
+  "description": "Portal Edukasi Teknologi Informasi. Dapatkan Panduan Teknik Komputer dan Jaringan, Ulasan Produk dan Perusahaan IT, Serta Berbagi Review Web Hosting",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-RUD_oCCrCck/YHUgCeCcO0I/AAAAAAAAA3I/Wuyw2e_g0UMkUEjZzo9d0t9_vvlN6NWnACLcBGAsYHQ/s32/MycodingLogo32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-m96gU7QNCtg/YHUgClXZVQI/AAAAAAAAA3M/0tpNqGtQ0NAP58JeZFG5J72Q8CccrZcTACLcBGAsYHQ/s48/MycodingLogo48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-2Ek0nsYPmJM/YHUgDDWaGmI/AAAAAAAAA3U/UBz5uIuGcW4qRvvpJYPpWtNQrkkkJqyDQCLcBGAsYHQ/s72/MycodingLogo72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-m89rWVKr5r4/YHUgDMLHx5I/AAAAAAAAA3Y/O18yQVzfUOQGD78-6SjJht5jltjRavzFwCLcBGAsYHQ/s96/MycodingLogo96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UDlCNyIPjW8/YHUgBbWQpyI/AAAAAAAAA3A/79U6zvfuBW8aGeT1YWWonWJx-bUTSSShQCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-u6M9VwqM_zQ/YHUgBROmB7I/AAAAAAAAA24/7atwg2Ka4bUU_vQI9JDsq-XwBFFZymX4ACLcBGAsYHQ/s168/MycodingLogo168.png",
+      "sizes": "168x168",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-6j_OVBJn-yw/YHUgBftqaZI/AAAAAAAAA28/4oiLmTZPO9gdDod49FEHekWB-bd812IFACLcBGAsYHQ/s180/MycodingLogo180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-DIjccEIaoHU/YHUgCBUwX5I/AAAAAAAAA3E/tg8v9UH8ac4NUMtQt5mywFlQc4q7_tMXgCLcBGAsYHQ/s192/MycodingLogo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-qi_xXHDH0d8/YHUgCwRbTcI/AAAAAAAAA3Q/92Eq9V-7dVYzz1m-1sY8jHetYbb3MsJsQCLcBGAsYHQ/s512/MycodingLogo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "https://www.ilmunesia.my.id/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#008C5F"
+}
