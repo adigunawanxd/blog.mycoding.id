@@ -1,7 +1,7 @@
 {
-  "short_name": "Ilmunesia.my.id",
-  "name": "Ilmunesia.my.id",
-  "description": "Portal Edukasi Teknologi Informasi. Dapatkan Panduan Teknik Komputer dan Jaringan, Ulasan Produk dan Perusahaan IT, Serta Berbagi Review Web Hosting",
+  "short_name": "Gadget",
+  "name": "Gadget 401xd.com",
+  "description": "Blog Teknologi dan Gadget 401xd.com. Dapatkan Informasi Review, Tutorial, Tips dan Trik Mengenai Smartphone Android dan iOS Terbaru dan Terlengkap",
   "icons": [
     {
       "src": "https://1.bp.blogspot.com/-RUD_oCCrCck/YHUgCeCcO0I/AAAAAAAAA3I/Wuyw2e_g0UMkUEjZzo9d0t9_vvlN6NWnACLcBGAsYHQ/s32/MycodingLogo32.png",
@@ -58,7 +58,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "https://www.ilmunesia.my.id/",
+  "start_url": "https://gadget.401xd.com/",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "scope": "/",
