@@ -4,9 +4,9 @@
   "display_override": ["fullscreen", "minimal-ui"],
   "display": "minimal-ui",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "https://blog.mycoding.id/",
   "short_name": "MC Project",
-  "name": "My Coding Project",
+  "name": "MC Project",
   "description": "Toko produk digital dan jasa freelance di Indonesia. Berfokus pada pengembangan, produksi dan pendistribusian karya desain, artikel, script pemrograman, source code, software aplikasi, tools, plugin, tema, dan template.",
   "categories": ["shopping", "productivity", "utilities", "education"],
   "background_color": "#ffffff",
@@ -169,27 +169,27 @@
   "shortcuts" : [
     {
       "name": "Store",
-      "url": "/",
+      "url": "https://mycoding.id/",
       "description": "Daftar produk, artikel, layanan, dan rilis update hari ini."
     },
     {
       "name": "Blog",
-      "url": "/blog",
+      "url": "https://mycoding.id/blog",
       "description": "Jelajahi artikel terbaru untuk lebih bany maskableak ide dan inspirasi."
     },
     {
       "name": "Promo",
-      "url": "/blog/category/promo",
+      "url": "https://mycoding.id/blog/category/promo",
       "description": "Berlangganan newsletter untuk menerima informasi promo dan rilis."
     },
     {
       "name": "Membership",
-      "url": "/pricing",
+      "url": "https://mycoding.id/pricing",
       "description": "Jelajahi paket harga membership, mulai dari Starter hingga Pro."
     },
     {
       "name": "Afiliasi",
-      "url": "/affiliate-program",
+      "url": "https://mycoding.id/affiliate-program",
       "description": "Program afiliasi produk digital bonus dan komisi tertinggi."
     }
   ],
