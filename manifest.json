@@ -1,66 +1,197 @@
 {
-  "short_name": "Gadget",
-  "name": "Gadget 401xd.com",
-  "description": "Blog Teknologi dan Gadget 401xd.com. Dapatkan Informasi Review, Tutorial, Tips dan Trik Mengenai Smartphone Android dan iOS Terbaru dan Terlengkap",
+  "dir": "ltr",
+  "lang": "id-ID",
+  "display_override": ["fullscreen", "minimal-ui"],
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/",
+  "short_name": "MC Project",
+  "name": "My Coding Project",
+  "description": "Toko produk digital dan jasa freelance di Indonesia. Berfokus pada pengembangan, produksi dan pendistribusian karya desain, artikel, script pemrograman, source code, software aplikasi, tools, plugin, tema, dan template.",
+  "categories": ["shopping", "productivity", "utilities", "education"],
+  "background_color": "#ffffff",
+  "theme_color": "#0D47A1",
   "icons": [
     {
-      "src": "https://1.bp.blogspot.com/-RUD_oCCrCck/YHUgCeCcO0I/AAAAAAAAA3I/Wuyw2e_g0UMkUEjZzo9d0t9_vvlN6NWnACLcBGAsYHQ/s32/MycodingLogo32.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo32.png",
       "sizes": "32x32",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-m96gU7QNCtg/YHUgClXZVQI/AAAAAAAAA3M/0tpNqGtQ0NAP58JeZFG5J72Q8CccrZcTACLcBGAsYHQ/s48/MycodingLogo48.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo48.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-2Ek0nsYPmJM/YHUgDDWaGmI/AAAAAAAAA3U/UBz5uIuGcW4qRvvpJYPpWtNQrkkkJqyDQCLcBGAsYHQ/s72/MycodingLogo72.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-m89rWVKr5r4/YHUgDMLHx5I/AAAAAAAAA3Y/O18yQVzfUOQGD78-6SjJht5jltjRavzFwCLcBGAsYHQ/s96/MycodingLogo96.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-UDlCNyIPjW8/YHUgBbWQpyI/AAAAAAAAA3A/79U6zvfuBW8aGeT1YWWonWJx-bUTSSShQCLcBGAsYHQ/s144/MycodingLogo144.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-u6M9VwqM_zQ/YHUgBROmB7I/AAAAAAAAA24/7atwg2Ka4bUU_vQI9JDsq-XwBFFZymX4ACLcBGAsYHQ/s168/MycodingLogo168.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo168.png",
       "sizes": "168x168",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-6j_OVBJn-yw/YHUgBftqaZI/AAAAAAAAA28/4oiLmTZPO9gdDod49FEHekWB-bd812IFACLcBGAsYHQ/s180/MycodingLogo180.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-DIjccEIaoHU/YHUgCBUwX5I/AAAAAAAAA3E/tg8v9UH8ac4NUMtQt5mywFlQc4q7_tMXgCLcBGAsYHQ/s192/MycodingLogo192.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://1.bp.blogspot.com/-qi_xXHDH0d8/YHUgCwRbTcI/AAAAAAAAA3Q/92Eq9V-7dVYzz1m-1sY8jHetYbb3MsJsQCLcBGAsYHQ/s512/MycodingLogo512.png",
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/logo/MycodingLogo512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "https://gadget.401xd.com/",
-  "background_color": "#FFFFFF",
-  "display": "standalone",
-  "scope": "/",
-  "theme_color": "#008C5F"
+  "screenshots" : [
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/1.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Beranda Desktop"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/2.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Produk Terbaru"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/3.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Produk Terpopuler"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/4.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Paket Berlangganan"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/5.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Artikel Blog"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/desktop/6.PNG",
+      "sizes": "1920x1080",
+      "type": "image/PNG",
+      "platform": "wide",
+      "label": "Produk dan Layanan"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/1.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Beranda Mobile"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/2.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Produk Terbaru"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/3.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Keranjang Belanja"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/4.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Invoice Pembelian"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/5.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Transaksi Pembelian"
+    },
+    {
+      "src": "https://mycoding.id/assets/images/pwascreen/mobile/6.png",
+      "sizes": "1080x2300",
+      "type": "image/png",
+      "platform": "narrow",
+      "label": "Program Afiliasi"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=id.mcproject.officialstore",
+      "id": "id.mcproject.officialstore"
+    }
+  ],
+  "shortcuts" : [
+    {
+      "name": "Store",
+      "url": "/",
+      "description": "Daftar produk, artikel, layanan, dan rilis update hari ini."
+    },
+    {
+      "name": "Blog",
+      "url": "/blog",
+      "description": "Jelajahi artikel terbaru untuk lebih bany maskableak ide dan inspirasi."
+    },
+    {
+      "name": "Promo",
+      "url": "/blog/category/promo",
+      "description": "Berlangganan newsletter untuk menerima informasi promo dan rilis."
+    },
+    {
+      "name": "Membership",
+      "url": "/pricing",
+      "description": "Jelajahi paket harga membership, mulai dari Starter hingga Pro."
+    },
+    {
+      "name": "Afiliasi",
+      "url": "/affiliate-program",
+      "description": "Program afiliasi produk digital bonus dan komisi tertinggi."
+    }
+  ],
+  "platforms": ["play", "webapp"]
 }
